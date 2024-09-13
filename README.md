@@ -1,4 +1,4 @@
-#**Harnessing Data Analytics for Early Detection of Heart Stroke**
+# Harnessing Data Analytics for Early Detection of Heart Stroke
 A Machine learning-based project for detecting heart disease using various classification algorithms. The project involves data cleaning, training, comparing, and tuning multiple models to predict heart disease, and deploying a web application using Streamlit for prediction.
 
 ##**Dataset**
