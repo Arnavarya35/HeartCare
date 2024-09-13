@@ -2,7 +2,7 @@
 A Machine learning-based project for detecting heart disease using various classification algorithms. The project involves data cleaning, training, comparing, and tuning multiple models to predict heart disease, and deploying a web application using Streamlit for prediction.
 
 ## Dataset
-Can be found on Kaggle
+heart_disease2.csv, which can be found on Kaggle.
 
 ## Models
 The following machine learning models were trained and compared for heart disease detection:
